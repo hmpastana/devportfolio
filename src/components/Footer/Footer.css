@@ -1,0 +1,16 @@
+.footer {
+  background-color: #f8f9fa;
+  color: blueviolet;
+  padding: 1rem 0;
+}
+
+.footer-links li {
+  list-style: none;
+  padding: 0 1rem;
+  float: left;
+}
+
+.footer-links li > a {
+  color: blueviolet;
+  text-decoration: none;
+}

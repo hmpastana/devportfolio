@@ -1,0 +1,18 @@
+.projects {
+  padding: 3.5rem 0;
+  margin-top: 2rem;
+  border-top: 1px solid rgba(137, 43, 226, 0.11);
+}
+
+.projects h4 {
+  color: grey;
+}
+
+.projects .card-bg {
+  background-color: rgb(112, 26, 192);
+  color: white;
+}
+
+.projects a {
+  text-decoration: none;
+}
