@@ -55,7 +55,7 @@ export default function Portfolio() {
                                 <div className="col">
                                     <h3>{item.title}</h3>
                                     <p>{item.description}</p>
-                                    <p><a href={item.link} target="_blank" className="btn btn-warning rounded-pill">Visit Site</a></p>
+                                    <p><a href={item.link} target="_blank" rel="noreferrer" className="btn btn-warning rounded-pill">Visit Site</a></p>
                                 </div>
                             </div>
                         ))}

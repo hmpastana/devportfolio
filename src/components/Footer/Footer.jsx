@@ -12,13 +12,13 @@ export default function Footer() {
                     <div className="col">
                         <ul className="footer-links">
                             <li>
-                                <a href=""><span className="bi-linkedin"></span> Linkedin</a>
+                                <a href="http://www.linkedin.com"><span className="bi-linkedin"></span> Linkedin</a>
                             </li>
                             <li>
-                                <a href=""><span className="bi-github"></span> Github</a>
+                                <a href="http://www.github.com"><span className="bi-github"></span> Github</a>
                             </li>
                             <li>
-                                <a href=""><span className="bi-instagram"></span> Instagram</a>
+                                <a href="http://www.instagram.com"><span className="bi-instagram"></span> Instagram</a>
                             </li>
                         </ul>
                     </div>
